@@ -1,0 +1,6 @@
+*.xml
+*.mf
+/nbproject/
+*.class
+/build/
+/VaqPack-ProgramOfStudy/nbproject/private/
