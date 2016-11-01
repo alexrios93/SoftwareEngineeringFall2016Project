@@ -1,0 +1,19 @@
+﻿<Course>
+  <Department>Computer Science</Department>
+  <Prefix>CSCI</Prefix>
+  <Number>3334</Number>
+  <Name>Systems Programming</Name>
+  <Description>
+    This course covers the design and implementation of system software. It investigates the relationship between software design and machine architecture. Topics may include assemblers, macro-processors, compilers, loaders, debugging environments, program development and archival tools, command language interpreters (shells), file systems, I/O support, processes, threads, and inter-process communication.
+  </Description>
+  <Credit-hours>3.000</Credit-hours>
+  <Lecture-hours>3.000</Lecture-hours>
+  <Lab-hours>None</Lab-hours>
+  <Level>Undergraduate</Level>
+  <Schedule-type>Lecture</Schedule-type>
+  <Prerequisite>CSCI/CMPE 2380</Prerequisite>
+  <Co-requisite>CSCI/CMPE 2333, ELEE 3435, or CMPE 3437</Co-requisite>
+  <Course-attributes>
+    Degree Elective, CS Instruction Fee - HU
+  </Course-attributes>
+</Course>

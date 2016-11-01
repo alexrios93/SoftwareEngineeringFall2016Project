@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+	<Department>Computer Science</Department>
+	<Prefix>CSCI</Prefix>
+	<Number>4318</Number>
+	<Name>Cyber Security</Name>
+	<Desription>This course explores cyber security fundamentals, standards of good practice, and basic theory in depth. Topics will include privacy, confidentiality, integrity, and encryption. Key areas include network attacks and defenses, operating systems flaws, malware, social engineering and digital rights management.</Desription>
+	<Credit-hours>3.000</Credit-hours>
+	<Lecture-hours>3.000</Lecture-hours>
+	<Lab-hours>0.000</Lab-hours>
+	<Level>Undergraduate</Level>
+	<Schedule-type>Lecture</Schedule-type>
+	<Prerequesite>CSCI-2344</Prerequesite>
+	<Prerequesite>CSCI-3333/CMPE-3333</Prerequesite>
+	<Co-requisite>None</Co-requisite>
+	<Legacy-number>N/A</Legacy-number>
+	<Course-attributes>CS Instruction Fee - HU</Course-attributes>
+</course>

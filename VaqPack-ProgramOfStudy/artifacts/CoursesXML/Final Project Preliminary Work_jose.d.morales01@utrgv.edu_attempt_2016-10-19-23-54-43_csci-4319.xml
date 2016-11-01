@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+	<Department>Computer Science</Department>
+	<Prefix>CSCI</Prefix>
+	<Number>4319</Number>
+	<Name>Digital Forensics</Name>
+	<Desription>This course explores the science, technology, procedures and laws of acquiring and analyzing evidence from digital media and computing devices. Current forensic tools will be surveyed. Topics include volatile and nonvolatile data analysis, network based evidence collection, forensic analysis techniques, web, email, and registry activity reconstruction and study of available tools.</Desription>
+	<Credit-hours>3.000</Credit-hours>
+	<Lecture-hours>3.000</Lecture-hours>
+	<Lab-hours>0.000</Lab-hours>
+	<Level>Undergraduate</Level>
+	<Schedule-type>Lecture</Schedule-type>
+	<Prerequesite>CSCI-2344</Prerequesite>
+	<Prerequesite>CSCI-2380/CMPE-2380</Prerequesite>
+	<Co-requisite>None</Co-requisite>
+	<Legacy-number>N/A</Legacy-number>
+	<Course-attributes>None</Course-attributes>
+</course>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Course>
+	<Department>Computer Science</Department>
+	<Prefix>CSCI</Prefix>
+	<Number><4301</Number>
+	<Name>Digital Image Processing</Name>
+	<Description>
+		The course presents fundamental concepts and applications of digital image processing. Topics include basic 
+		color, image perception and transformation, image enhancement and compression, and image analysis, and computer vision.
+	</Description>
+	<Credit-hours>3.000</Credit-hours>
+	<Lecture-hours>3.000</Lecture-hours>
+	<Lab-hours>0.000</Lab-hours>
+	<Level>Undergraduate</Level>
+	<Schedule-type>Lecture</Schedule-type>
+	<Prerequisite>
+		Undergraduate level CSCI 3333 or CMPE 3333 Minimum Grade of D
+	</Prerequisite>
+	<Co-requisite>None</Co-requisite>
+	<Legacy-number>None</Legacy-number>
+	<Cross-listed>
+	<item>CMPE 4301</item>
+	<item>A student may receive credit in only one course.</item>
+	</Cross-listed>
+	<Restrictions>
+		<item>May not be enrolled in one of the following Programs:</item>
+		<item>dnu-MED in Educational Admin</item>
+		<item>MPA in Public Administration</item>
+		<item>Bus. Admin -Accelerated online</item>
+		<item>May not be enrolled in one of the following Levels:</item>
+		<item>English Language Institute</item>
+	</Restrictions>	
+	<Course-attributes>
+		Degree Elective, CS Instruction Fee - HU
+	</Course-attributes>
+</Course>

@@ -1,0 +1,32 @@
+<Course>
+<Department>Computer Science</Department>
+<Prefix>CSCI</Prefix>
+<Number>3300</Number>
+<Name>Internship in Computer Science</Name>
+<Description>
+This course is designed to give students an opportunity to gain practical experience in the computer science career field by working with a participating employing firm or organization. The student will be supervised by a faculty member acting as a liaison between the University and the employing organization to ensure compliance with specific learning and experience requirements. The employment can be either paid or unpaid, and normally would include practical experience spread over one academic term or summer. May be repeated once. A maximum of three hours of credit from CSCI 3300 can be used toward the computer science major.  
+</Description>
+<Credit-hours>3.000</Credit-hours>
+<Lecture-hours>3.000</Lecture-hours>
+<Lab-hours>0.000</Lab-hours>
+<Level>Undergraduate</Level>
+<Schedule-type>Practicum</Schedule-type>
+<Prerequisite>Junior standing, minimum 12 hours of Computer Science (CSCI) completed and approved by both the department and employer providing the practicum/internship experience. 
+</Prerequisite>
+<Co-requisite>None</Co-requisite>
+<Course-attributes>
+Exempt from 3peat processing, Degree Elective, CS Instruction Fee - HU
+</Course-attributes>
+<Legacy-number>COSC 4386</Legacy-number>
+<Cross-listed>CMPE 3300</Cross-listed>
+<Restrictions>May not be enrolled in one of the following Programs:      
+      dnu-MED in Educational Admin 
+      MPA in Public Administration 
+      Bus. Admin -Accelerated online 
+May not be enrolled in one of the following Levels:      
+      English Language Institute 
+Must be enrolled in one of the following Classifications:      
+      Senior 
+      Junior 
+</Restrictions>
+</Course>

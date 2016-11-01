@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Course>
+<Department>Computer Science</Department>
+<Prefix>CSCI</Prefix>
+<Number>4345</Number>
+<Name>Computer Networks</Name>
+<Description>
+An introduction to data communication topics, including data transmission, encoding, data link control, switching, network topologies, protocols, internet working and data security. Examples of existing networks and network architectures are studied.
+</Description>
+<Credit-hours>3.000</Credit-hours>
+<Lecture-hours>3.000</Lecture-hours>
+<Lab-hours>0.000</Lab-hours>
+<Level>Undergraduate</Level>
+<Schedule-type>Lecture</Schedule-type>
+<Prerequisite>CSCI/CMPE 3333.</Prerequisite>
+<Co-requisite>None</Co-requisite>
+<Legacy-number>COSC-4313</Legacy-number>
+<Cross-listed>CMPE-4345</Cross-listed>
+<Restrictions>Senior or Junior standing.</Restrictions>
+<Course-attributes>Degree Elective, CS Instruction Fee - HU</Course-attributes>
+</Course>
+

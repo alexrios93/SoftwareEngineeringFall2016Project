@@ -1,0 +1,24 @@
+<Course>
+<Department>Computer Science</Department>
+<Prefix>CSCI</Prefix>
+<Number>3310</Number>
+<Name>Discrrete Data Structures</Name>
+<Description>
+An introduction to some of the more important concepts, techniques, and structures of discrete mathematics. It provides a bridge between computer science and mathematics. Topics include functions and relations, sets, countability, groups, graphs, propositional and predicate calculus, and permutations and combinations. Students will be expected to develop simple proofs for problems drawn primarily from computer science and applied mathematics.   
+</Description>
+<Credit-hours>3.000</Credit-hours>
+<Lecture-hours>3.000</Lecture-hours>
+<Lab-hours>0.000</Lab-hours>
+<Level>Undergraduate</Level>
+<Schedule-type>Lecture</Schedule-type>
+<Prerequisite>
+(Undergraduate level MATH 2413 Minimum Grade of C or Undergraduate level MATH 1460 Minimum Grade of C) and (Undergraduate level CSCI 1370 Minimum Grade of D or Undergraduate level CMPE 1370 Minimum Grade of D or Undergraduate level CSCI 1378 Minimum Grade of D or Undergraduate level CMPE 1378 Minimum Grade of D) 
+</Prerequisite>
+<Co-requisite>None</Co-requisite>
+<Course-attributes>
+None
+</Course-attributes>
+<Legacy-number>COSC 2310</Legacy-number>
+<Cross-listed>None</Cross-listed>
+<Restrictions>None</Restrictions>
+</Course>

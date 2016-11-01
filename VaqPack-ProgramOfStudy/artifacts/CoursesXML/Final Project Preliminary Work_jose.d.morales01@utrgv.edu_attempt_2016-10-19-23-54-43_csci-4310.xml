@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+	<Department>Computer Science</Department>
+	<Prefix>CSCI</Prefix>
+	<Number>4310</Number>
+	<Name>Design &amp; Analysis of Algorithm</Name>
+	<Desription>The course presents elements of the design and analysis of computer algorithms. Topics include in-depth study of algorithms' design strategies such as dynamic programming, divide-and-conquer and greedy methods; algorithms for graph problems, geometric problems and other selected problems; and computational complexity.</Desription>
+	<Credit-hours>3.000</Credit-hours>
+	<Lecture-hours>3.000</Lecture-hours>
+	<Lab-hours>0.000</Lab-hours>
+	<Level>Undergraduate</Level>
+	<Schedule-type>Lecture</Schedule-type>
+	<Prerequesite>CSCI-3333 or consent of instructor</Prerequesite>
+	<Co-requisite>None</Co-requisite>
+	<Legacy-number>N/A</Legacy-number>
+	<Course-attributes>Degree Elective</Course-attributes>
+	<Course-attributes>CS Instruction Fee - HU</Course-attributes>
+</course>
