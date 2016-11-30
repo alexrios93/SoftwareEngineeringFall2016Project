@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Faculty>
+    <Department>Computer Science</Department>
+    <Name>Dr. Chen Zhixiang</Name>
+    <DepartmentChair>TRUE</DepartmentChair>
+    <Type>Professor</Type>
+    <Office>Edinburg ENGR 3.293</Office>
+    <Phone>956-665-3520</Phone>
+    <Email>zhixiang.chen@utrgv.edu</Email>
+    <Website>http://faculty.utrgv.edu/zhixiang.chen/</Website>
+    <About>
+        Zhixiang received his Ph.D. in Computer Science from Boston
+        University in January 1996. He taught at Southwest State University
+        from Fall 1995 to September 1997. He also studied at the University of
+        Illinois and worked and stuided at Huazhong University of Science and
+        Technology. His research interests include Intelligent Web Search,
+        Computational Complexity Theory, Computational Learning Theory,
+        Informational Retrieval, Data Mining and Web Mining, Algorithms, and
+        Bioinformatics. He has taught a wide range of computer science courses.
+        He served as the Chair in the Computer Science Department at UTPA from
+        January 2006 to May 2016 and has been the Interim Computer Science Chair
+        at UTRGV since May 2015.
+    </About>
+</Faculty>
