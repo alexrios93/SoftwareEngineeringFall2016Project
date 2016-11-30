@@ -1,0 +1,12 @@
+<Learning-outcomes>
+    <item>Describe the progression of computer architecture from vacuum tubes to VLSI.</item>
+    <item>Demonstrate an understanding of the basic building blocks and their role in the historical development of computer architecture.</item>
+    <item>Describe the machine level representation of data.</item>
+    <item>Demonstrate an understanding of the assembly level machine organization.</item>
+    <item>Explain the organization of the classical von Neumann machine and its major functional units.</item>
+    <item>Explain the basic concepts of interrupts and I/O operations.</item>
+    <item>Describe the memory system organization and architecture.</item>
+    <item>Demonstrate an understanding of how the various components are connected and how they communicate with each other.</item>
+    <item>Describe the functional organization of computer (datapaths, signals, pipelining).</item>
+    <item>Describe multiprocessing and alternative architecture.</item>
+</Learning-outcomes>

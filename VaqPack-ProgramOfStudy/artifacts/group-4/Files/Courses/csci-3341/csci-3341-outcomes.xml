@@ -1,0 +1,15 @@
+<Learning-outcomes>
+	<item>Software validation and verification:</item>
+		<item2>Distinguish between program validation and verification.</item2>
+		<item2>Distinguish between functional and structural testing.</item2>
+		<item2>Distinguish between the different types and levels of testing (unit, integration, systems, and acceptance) for medium-size software products).</item2>
+	<item>Understand the following test strategies:</item>
+		<item2>Graph coverage</item2>
+		<item2>Logic coverage</item2>
+		<item2>Input-Space Coverage</item2>
+		<item2>Syntax-Base Coverage</item2>
+	<item>Risks and liabilities of computer-based systems:</item>
+		<item2>Explain the limitations of testing as a means to ensure correctness.</item2>
+		<item2>Describe the differences between correctness, reliability, and safety.</item2>
+		<item2>Discuss the potential for hidden problems in reuse of existing components</item2>
+</Learning-outcomes>

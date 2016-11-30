@@ -1,0 +1,10 @@
+<Learning-outcomes>
+	<item>Understand the objectives and functions of Unix/Linux operating systems</item>
+	<item>Understand how operating systems have evolved over time from primitive batch systems to sophisticated multi-user systems</item>
+	<item>Understand Unix/Linux file system, file processing, and file security</item>
+	<item>Use basic and advance Unix commands</item>
+	<item>Use Unix/Linux utilities</item>
+	<item>Use basic editors, such as vi or emacs, on Unix/Linux environment</item>
+	<item>Program with shell script languages</item>
+	<item>Develop Unix/Linux applications in C/C++</item>
+</Learning-outcomes>

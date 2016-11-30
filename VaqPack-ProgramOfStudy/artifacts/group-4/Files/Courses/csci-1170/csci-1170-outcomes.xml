@@ -1,0 +1,30 @@
+<Learning-outcomes>
+	<item>Be proficient with the programming environment and understand the basic aspects of program translation.</item>
+	<item>Analyze a programming problem and develop a solution algorithm.</item>
+	<item>Use the syntax and semantics of a higher-level language to implement their solutions to programming problems, including the correct use of:</item>
+		<item2>Variables and assignment to variables,</item2>
+		<item2>Primitive types such as integer, character, and floating-point variable types,</item2>
+		<item2>Commonly-used built-in reference types, e.g., single-dimensional arrays,strings,</item2>
+		<item2>Declaration of constants and variables,</item2>
+		<item2>Assignment, logical, and arithmetic operators,</item2>
+		<item2>Local and global variables,</item2>
+		<item2>Selection control structures (e.g., if, nested if, switch),</item2>
+		<item2>Iterative control structures (e.g., for, while),</item2>
+		<item2>Functions (user-defined and predefined),</item2>
+		<item2>Parameter passing to functions (by value and by reference),</item2>
+		<item2>Arrays and other structures (such as records).</item2>
+	<item>Document their solutions.</item>
+	<item>Use functions and parameter passing involving both primitive types and reference types.</item>
+	<item>Apply problem-solving strategies to design a solution to a problem similar to ones seen before.</item>
+	<item>Design simple ADTs to solve a problem similar to one seen before.</item>
+	<item>Apply testing and debugging strategies, including black-box and white-box testing, test drivers, stubs, and test suites, to identify software faults.</item>
+	<item>Formulate complex arithmetic expressions involving operators of differing precedence and associativity; understand the order of evaluation of subexpressions.</item>
+	<item>Formulate complex logical expressions involving multiple and/or/not combinations.</item>
+	<item>Implement nested if statements.</item>
+	<item>Demonstrate proficiency in the use of logic and arithmetic operators and their precedence.</item>
+	<item>Use simple I/O to read/write character and numeric data to/from files and console.</item>
+	<item>Use simple sorting and searching algorithms.</item>
+	<item>Use standard documentation to determine the use of an unfamiliar class or method.</item>
+	<item>Use teamwork roles and methods in the classroom.</item>
+	<item>Discuss and debate ethics in computing.</item>
+</Learning-outcomes>

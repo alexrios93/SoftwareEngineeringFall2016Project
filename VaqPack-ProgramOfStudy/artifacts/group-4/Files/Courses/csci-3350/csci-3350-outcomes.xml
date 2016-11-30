@@ -1,0 +1,10 @@
+<Learning-outcomes>
+	<item>Understand the influence of data representation and computer architecture on the choice and development of algorithms.</item>
+	<item>Locate the roots of equations by using the bisection method, the secant method, and the Newton’s method.</item>
+	<item>Do polynomial interpolation, write Matlab programs to solve simple interpolation problems.</item>
+	<item>Estimate derivatives and Richardson extrapolation by using the first- and the second- derivative formulas.</item>
+	<item>Write Matlab programs to numerical approximate the definite integrals by using the basic algorithms including Trapezoid Rule, an Adaptive Simpson’s Scheme, and the Gaussian Quadrature Formulas.</item>
+	<item>Solve the systems of linear equations by using the Gaussian elimination method and the Gaussian elimination with scaled partial pivoting method, and some iterative methods.</item>
+	<item>Understand the concept of approximating functions. Be able to approximate the functions by using the spline functions from the first degree splines to the cubic splines.</item>
+	<item>Solve the initial value problems of ordinary differential equations by using the Taylor series methods and the Runge-Kutta methods.</item>
+</Learning-outcomes>

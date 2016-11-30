@@ -1,0 +1,11 @@
+<Learning-outcomes>
+	<item>To gain the understanding of principles of Object Oriented Programming: classes, methods, composition, inheritance, overloading, templates, virtual methods and polymorphism.</item>
+	<item>To practice more about pointers, dynamic memory management.</item>
+	<item>To know the concept of recursion.</item>
+	<item>To be able to continue the development of problem solving skills in a context that emphasizes a structured, top-down approach.</item>
+	<item>To demonstrate the application of software engineering principles in designing, coding and testing large programs.</item>
+	<item>To understand essential data structures such as linked lists, stacks, and queues, and the specification of each of above structures as an abstract data type (ADT).</item>
+	<item>To explore a systematic approach to the study of algorithms that focuses first on the understanding of the algorithm and then on analyzing the algorithm from a time/space perspective. In particular searching, sorting, and recursive algorithms are covered in the course.</item>
+	<item>To learn how to evaluate the time and space tradeoffs in the design and implementation of ADT's.</item>
+	<item>To be aware of the importance of object-oriented methods in developing software, particularly in the design and implementation of ADT's.</item>
+</Learning-outcomes>

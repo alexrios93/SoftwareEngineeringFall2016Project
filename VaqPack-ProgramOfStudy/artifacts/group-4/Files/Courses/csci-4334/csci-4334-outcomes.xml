@@ -1,0 +1,24 @@
+<Learning-outcomes>
+    <item>Explain the organization of the classical von Neumann machine and its major functional units.</item>
+    <item>Describe the principles of memory management.</item>
+    <item>Explain how interrupts, are used to implement I/O control and data transfers.</item>
+    <item>Describe the functions of a contemporary operating system with respect to convenience, efficiency, and the ability to evolve.</item>
+    <item>Discuss networked, client-server, distributed operating systems and how they differ from single user operating systems.</item>
+    <item>Compare and contrast the various ways of structuring an operating system such as object-oriented, modular, micro-kernel, and layered.</item>
+    <item>Describe the need for concurrency within the framework of an operating systems.</item>
+    <item>Discuss the utility of data structures, such as stacks and queues, in managing concurrency.</item>
+    <item>Explain conditions that lead to deadlock.</item>
+    <item>Discuss the types of processor scheduling such as short-term, medium-term, long-term, and I/O.</item>
+    <item>Describe the difference between processes and threads.</item>
+    <item>Compare and contrast static and dynamic approaches to real-time scheduling.</item>
+    <item>Discuss the need for preemption and deadline shceduling.</item>
+    <item>Explain memory hierarchy and cost-performance tradeoffs.</item>
+    <item>Explain the concept of virtual memory and how it is realized in hardware and software.</item>
+    <item>Summarize the principles of virtual memory as applied to caching, paging, and segmentation.</item>
+    <item>Evaluate the tradeoffs in terms of memory size (main memory, cache memory, auxiliary memory) and processor speed.</item>
+    <item>Defend the different ways of allocating memory to tasks, citing the relative merits of each.</item>
+    <item>Describe the reason for and use of cache memory.</item>
+    <item>Compare and contrast paging and segmentation techniques.</item>
+    <item>Discuss the concept of thrashing, both in terms of the reasons it occurs and the techniques used to recognize and manage the problem.</item>
+    <item>Analyze the various memory portioning techniques including overlays, swapping, and placement and replacement policies.</item>
+</Learning-outcomes>

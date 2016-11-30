@@ -1,0 +1,20 @@
+<Learning-outcomes>
+	<item>Describe the progression of computer architecture from vacuum tubes to VLSI.</item>
+	<item>Demonstrate an understanding of the basic building blocks and their role in the historical development of computer architecture.</item>
+	<item>Explain how interrupts are used to implement I/O control and data transfers.</item>
+	<item>Identify various types of buses in a computer system.</item>
+	<item>Explain the reasons for using different formats to represent numerical data.</item>
+	<item>Explain how negative integers are stored in sign-magnitude and twos-compliment representation.</item>
+	<item>Convert numerical data from one format to another.</item>
+	<item>Discuss how fixed-length number representations affect accuracy and precision.</item>
+	<item>Describe the internal representation of nonnumeric data.</item>
+	<item>Describe the internal representation of characters, strings, records, and arrays.</item>
+	<item>Explain the organization of the classical von Neumann machine and its major functional units.</item>
+	<item>Explain how an instruction is executed in a classical von Neumann machine.</item>
+	<item>Write assembly language programs that use basic computation and simple I/O, standard conditional structures, basic iterative structures, and the definition of functions.</item>
+	<item>Demonstrate how fundamental high-level programming constructs are implemented at the assembly-language level.</item>
+	<item>Explain how subroutine calls are handled at the assembly level.</item>
+	<item>Explain the basic concepts of interrupts and I/O operations.</item>
+	<item>Choose appropriate conditional and iteration constructs for a given programming task.</item>
+	<item>Describe the mechanics of parameter passing.</item>
+</Learning-outcomes>
