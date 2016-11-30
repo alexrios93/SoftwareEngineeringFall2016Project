@@ -1,0 +1,11 @@
+<Learning-outcomes>
+	<item>Design and implement 2d games with physical and rule-based simulation.</item>
+	<item>Implement programs using interactive 3d graphics.</item>
+	<item>Develop and use vector and matrix mathematics for physical simulations.</item>
+	<item>Select and use appropriate game-oriented libraries and code frameworks.</item>
+	<item>Use source control to manage collaborative development.</item>
+	<item>Design modular, object-oriented code and unit tests.</item>
+	<item>Make effective choices for subjective coding conventions.</item>
+	<item>Effectively use a step debugger.</item>
+	<item>Perform informal code review.</item>
+</Learning-outcomes>

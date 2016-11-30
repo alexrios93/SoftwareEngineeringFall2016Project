@@ -1,0 +1,14 @@
+<Learning-outcomes>
+	<item>Use the Visual Studio IDE environment</item>
+	<item>Declare and use various data types in the VB environment.</item>
+	<item>Properly use the different looping structures available in VB.</item>
+	<item>Write an amortization schedule or the future value of monthly investment program to demonstrate the capabilities of looping.</item>
+	<item>Use procedures and functions.</item>
+	<item>Write programs involving single and multi-dimensional arrays.</item>
+	<item>Write object based programs showing proper use of inheritance and polymorphism.</item>
+	<item>Use GUIs available in VB.</item>
+	<item>Write multi-form programs.</item>
+	<item>Write multi-threaded programs</item>
+	<item>Write programs using sequential access and random access file structures.</item>
+	<item>Link VB to a database.</item>
+</Learning-outcomes>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Course>
+	<Divide>Mathematics and Engineering</Divide>
+	<Department>Mathematics</Department>
+	<Prefix>MATH</Prefix>
+	<Number>4337</Number>
+	<Name>Probability and Statistics I</Name>
+	<Description>
+    Topics include probability, random variables, discrete and continuous probability
+  distributions, expectations, moments and moment generating functions, distribution of
+  functions of random variables, and limiting distributions.
+  </Description>
+	<Credit-hours>3.000 Credit hours</Credit-hours>
+	<Lecture-hours>3.000 Lecture hours</Lecture-hours>
+	<Lab-hours>0.000 Lab hours</Lab-hours>
+	<Level>Undergraduate</Level>
+	<Schedule-type>Lecture</Schedule-type>
+	<Prerequisite>
+  <item>MATH-1470</item>
+  </Prerequisite>
+	<Co-requisite><item>None</item></Co-requisite>
+	<Legacy-number>None</Legacy-number>
+	<Cross-listed>None</Cross-listed>
+	<Restrictions1><item>None</item></Restrictions1>
+	<Restrictions2><item>None</item></Restrictions2>
+	<Course-attributes><item>CS Instruction Fee - HU</item><item>Degree Elective</item></Course-attributes>
+</Course>

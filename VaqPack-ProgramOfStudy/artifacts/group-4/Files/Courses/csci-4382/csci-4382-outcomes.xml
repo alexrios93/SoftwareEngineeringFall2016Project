@@ -1,0 +1,19 @@
+<Learning-outcomes>
+    <item>Discuss the statement "visualization is not new, computer visualization is."</item>
+    <item>Distinguish between sensory and arbitrary symbols.</item>
+    <item>Describe advanatages in visualization in using sensory symbols for some tasks.</item>
+    <item>Distinguish between sensation and perception.</item>
+    <item>Define chromatic aberration and its implications for visualization.</item>
+    <item>Define luminance, brightness, and lightness.</item>
+    <item>Give the mathematic function that relates light intensity to brightness.</item>
+    <item>Describe the "RGB cube", CIE, and HSV specifications of color.</item>
+    <item>Present Ware's searchlight model of attention and describe how for visual attention eye movements play a role, how "large" the searchlight is, and how attention is attracted.</item>
+    <item>Describe the iconic buffer, it's capacity, how it processes information, and how its characteristics important for computer visualization.</item>
+    <item>List and give examples of the seven laws of Gestalt perception presented in Ware.</item>
+    <item>Describe for animation how Michot's experiments of perception of causality be used in effective information display.</item>
+    <item>Provide examples of at least three illusions and draw upon Gestalt laws to explain them.</item>
+    <item>Discuss this statement "If two dimensional display of information is good, then three dimensional display of information must be better", indicating why it may or may not be true, and, then, only under certain circumstances for certain data sets.</item>
+    <item>Describe the relative importance of the several depth cues.</item>
+    <item>Describe basic elements of computer based steroscopic display, and provide examples.</item>
+    <item>Design and implement effective visualizations.</item>
+</Learning-outcomes>

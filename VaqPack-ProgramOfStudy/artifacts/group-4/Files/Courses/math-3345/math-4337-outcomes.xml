@@ -1,0 +1,25 @@
+<Learning-outcomes>
+  <item>Have the basic ideas regarding what is the difference between a population and a
+sample and will be able to identify which is a representative sample and which is
+not.</item>
+  <item>Understand the difference between Statistics and Probability.</item>
+  <item>Write down the sample space for given experiments and compute probabilities
+and conditional probabilities using the appropriate formulas (addition rule,
+multiplication rule etc.)
+</item>
+  <item>Understand the basic difference between discrete and continuous probability
+distributions and will understand the concepts of probability mass function in the
+discrete case and the probability density function in the continuous case.</item>
+  <item>Expectations and variances for various probability distributions (discrete or
+continuous).</item>
+  <item>Know the important discrete probability distributions and their important
+properties and will be able to calculate the expectations and variances for these
+distributions.</item>
+  <item>Know the important continuous probability distributions and their important
+properties and be able to calculate the expectations and variances for these
+distributions</item>
+  <item>Calculate the probability density functions for functions of continuous random
+variables - both in the univariate and bivariate scenario</item>
+<item>Calculate moments and moment generating functions for important discrete and
+continuous probability distributions.</item>
+</Learning-outcomes>

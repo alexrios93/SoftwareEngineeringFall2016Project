@@ -1,0 +1,14 @@
+<Learning-outcomes>
+	<item>Use the .NET IDE environment.</item>
+	<item>Declare and use various data types in the C# environment.</item>
+	<item>Properly use the different looping structures available in C#.</item>
+	<item>Write an amortization schedule or the future value of monthly investment program to demonstrate the capabilities of looping.</item>
+	<item>Develop and use classes, objects, methods and attributes.</item>
+	<item>Write programs involving single and multidimensional arrays.</item>
+	<item>Write object based programs showing proper use of inheritance and polymorphism.</item>
+	<item>Use GUIs available in C#.</item>
+	<item>Write multi-form programs.</item>
+	<item>Write multi-threaded programs.</item>
+	<item>Write programs using different types of file structures available to C#.</item>
+	<item>Link C# to a database.</item>
+</Learning-outcomes>

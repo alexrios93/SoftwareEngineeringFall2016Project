@@ -1,0 +1,14 @@
+<Learning-outcomes>
+    <item>Compare and contrast sample and geometry based graphics.</item>
+    <item>Define and explain the role of models in geometry based graphics.</item>
+    <item>Describe the most widely used color representation systems and techniques.</item>
+    <item>Understand how OpenGL provides a software interface to graphics hardware.</item>
+    <item>Be able to utilize an event-driven software architecture.</item>
+    <item>List and illustrate elements needed to specify parameters to the synthetic camera model.</item>
+    <item>Describe how geometry and illumination/shading are tradeoffs from photorealistic images for interactivity.</item>
+    <item>Describe Z-buffer algorithm.</item>
+    <item>Distinguish between local and global models of illumination, providing examples of specific techniques.</item>
+    <item>Give high level recursive algorithm for ray tracing.</item>
+    <item>Describe hardware architecture of current graphics processing units.</item>
+    <item>Write moderately complex OpenGL programs that include manipulation of camera, shading, objects, and lighting, as well as use GLUT for interaction.</item>
+</Learning-outcomes>

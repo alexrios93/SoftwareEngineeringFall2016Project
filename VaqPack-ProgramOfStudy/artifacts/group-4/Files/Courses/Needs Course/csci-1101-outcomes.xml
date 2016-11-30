@@ -1,0 +1,35 @@
+<Learning-outcomes>
+	<item>Explain the reasons for using different formats to represent numerical data.</item>
+	<item>Explain how negative integers are stored in twos-complement representation.</item>
+	<item>Describe Boolean Operations, gates, and flip-flops.</item>
+	<item>Describe numeric data representation and number bases, and convert numbers
+		between bases. Convert numerical data from one format to another.</item>
+	<item>Understand binary logic circuits and Boolean algebra. Prove properties using truth
+		tables.</item>
+	<item>Discuss how fixed-length number representations affect accuracy and precision.</item>
+	<item>Describe the internal representation of nonnumeric data.</item>
+	<item>Design, implement, test, and debug simple programs for Lego Mindstorms robots.</item>
+	<item>Use of control structures for programs (selection, repetition).</item>
+	<item>Discuss the importance of algorithms in the problem-solving process.</item>
+	<item>Understand the difference between an algorithm and a computer program.</item>
+	<item>Identify the necessary properties of good algorithms.</item>
+	<item>Understand algorithms for repetition, selection, input/output, assignment, and
+		modules.</item>
+	<item>Explain the organization of the classical von Neumann machine and its major
+		functional units.</item>
+	<item>Explain how an instruction is executed in a classical von Neumann machine.</item>
+	<item>Explain the objectives and functions of modern operating systems.</item>
+	<item>Understand the fundamental ideas of selected operating system functions, such as
+		memory management.</item>
+	<item>Explain basic file types and operations.</item>
+	<item>Understand terminology of directory trees.</item>
+	<item>Understand fundamental ideas of disk scheduling.</item>
+	<item>Explain the characteristics that distinguish the database approach from
+		programming with data files.</item>
+	<item>Cite the basic goals, functions, and social impact of database systems.</item>
+	<item>Discuss the evolution of early networks and the Internet.</item>
+	<item>Understand the fundamentals of network protocols and the Domain Name
+		System.</item>
+	<item>List the contributions of several pioneers in the computing field.</item>
+	<item>Identify significant continuing trends in the history of the computing field.</item>
+</Learning-outcomes>
