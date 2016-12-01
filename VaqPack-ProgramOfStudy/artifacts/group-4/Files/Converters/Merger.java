@@ -118,7 +118,7 @@ public class Merger {
      * @param type
      * @param output
      */
-    public void mergeFilesFromDirectory2HTML(String directoryName, String jointXMLRootNode, String xslFile, String type, String output) {
+    public void mergeMultipleXMLDocsFromDirectory(String directoryName, String jointXMLRootNode, String xslFile, String type, String output) {
 
         //Get all files and put them into a arraylist
         generateAllFilesInDirectory(directoryName, filesGathered, type);
